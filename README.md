@@ -3,7 +3,7 @@ A portable command line version of 7-Zip (a) 19.00 (x64)
 
 ## Quick usage
 
-Extract contents, if password protected, a prompt to input password will be shown during extraction. 
+Extract contents from cmd, if password protected, a prompt to input password will be shown during extraction. 
 
 **Comamnd Example:**
 ```
